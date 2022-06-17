@@ -37,7 +37,7 @@ one you will run the docker-compose.yaml file using the following command
 ```console
 $ docker-compose up --build -d
 ```
-you swagger docs will be hosted on http://localhost:6060/swagger/index.html#/
+
 
 
 ## Things i've added to the source code
