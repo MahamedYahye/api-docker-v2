@@ -1,8 +1,8 @@
-dbaddress: smartplantdb.mysql.database.azure.com
-dbname: Smartplant
-dbpassword: "Admin01!!"
+dbaddress: password
+dbname: dbname
+dbpassword: "dbpassword"
 dbport: 3306
 dbtable: data
-dbusername: "Smartplant"
+dbusername: "dbuser"
 espkey: 001bf1b6-214a-4117-b19c-165fae347c6d
 httpport: 15000
